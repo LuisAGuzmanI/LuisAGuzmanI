@@ -1,11 +1,11 @@
 ## Hi 👋 I am Luis! 
-I'm a Software Developer and college studend who loves learning how technology works and building stuff with it
+I'm a Software Developer and college student who loves learning how technology works and building stuff with it
 
 ### 🔨 Projects I'm the most proud of
 <ul>
 <li>
 <b>MAE Digital Library</b>
-<p>Currently working on a Web App as a part of my scolarship service to store and distribute educational content from students to students using Firebase and Vue.js </p>
+<p>Currently working on a Web App as a part of my scholarship service to store and distribute educational content from students to students using Firebase and Vue.js </p>
 </li>
 <li>
 <b>Arca Continental TWI Supervisor Training System</b>
@@ -13,7 +13,7 @@ I'm a Software Developer and college studend who loves learning how technology w
 </li>
 <li>
 <b>Sign language learning admin dashboard</b>
-<p>Currently working on the desing and development of a web dashboard for admins to manage and vizualize user data</p>
+<p>Currently working on the design and development of a web dashboard for admins to manage and visualize user data</p>
 </li>
 <li>
 <b>Migrant Shelter Information database</b>
@@ -71,3 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
