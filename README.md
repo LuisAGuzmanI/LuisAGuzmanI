@@ -53,7 +53,7 @@ I'm a Software Developer and college studend who loves learning how technology w
 
 ### 📫 How to reach me:
 Email: luisaguzmani2002@gmail.com  
-LinkedIn: [Luis Ángel Guzmán Iribe](linkedin.com/in/luisa-guzmani/)  
+LinkedIn: [Luis Ángel Guzmán Iribe](linkedin.com/in/luisa-guzmani)  
 Twitter: [@LuisAGuzmanI](https://twitter.com/LuisAGuzmanI)  
 Discord: [@LuisAGuzmanI](https://discordapp.com/users/387061453670055937)  
 
