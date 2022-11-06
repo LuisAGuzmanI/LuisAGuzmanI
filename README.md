@@ -1,4 +1,5 @@
-Hi! I'm a Software Developer and college studend who loves learning how technology works and building stuff with it. In my free time I also like 
+## Hi 👋 I am Luis! 
+I'm a Software Developer and college studend who loves learning how technology works and building stuff with it
 
 ### 🔨 Projects I'm the most proud of
 <ul>
@@ -49,7 +50,7 @@ Hi! I'm a Software Developer and college studend who loves learning how technolo
 * In my free time I like learning about the world, from physics and mathematics to history and psychology
 * As most people, I also like [music](https://open.spotify.com/playlist/3M8J8q8PLBeuDrVGwjH3OM?si=29b84dcbb14b409b)
 
-### 📫 How to reach out to me:
+### 📫 How to reach me:
 Email: luisaguzmani2002@gmail.com
 Twitter: [@LuisAGuzmanI](https://twitter.com/LuisAGuzmanI)
 Discord: [@LuisAGuzmanI](https://discordapp.com/users/387061453670055937)
