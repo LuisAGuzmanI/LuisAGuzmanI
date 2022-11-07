@@ -6,6 +6,7 @@ I'm a Software Developer and college student who loves learning how technology w
 <li>
 <b>MAE Digital Library</b>
 <p>Currently working on a Web App as a part of my scholarship service to store and distribute educational content from students to students using Firebase and Vue.js </p>
+ It's still under development but you can visit the currently deployed version <a href="https://biblioteca.maes.mx/#/">here</a>!
 </li>
 <li>
 <b>Arca Continental TWI Supervisor Training System</b>
