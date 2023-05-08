@@ -4,6 +4,9 @@ I'm a Software Developer and college student who loves learning how technology w
 ### 🔨 Projects I'm the most proud of
 <ul>
 <li>
+<b>Contact-hub</b> 
+<p>As part of my on-campus job, I am developing an agile PHP-based web application called "Contact Hub." The application functions as a centralized platform for ITESM campuses information that provides comprehensive details on academic programs, student life, admission requirements, and campus options to attract potential students. The project follows the Scrum framework, and the platform will have a user-friendly interface that facilitates easy access to information and enhances the school's visibility.</p>
+</li>
 <b>MAE Digital Library</b>
 <p>Currently working on a Web App as a part of my scholarship service to store and distribute educational content from students to students using Firebase and Vue.js </p>
  It's still under development but you can visit the currently deployed version <a href="https://biblioteca.maes.mx/#/">here</a>!
@@ -72,7 +75,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
