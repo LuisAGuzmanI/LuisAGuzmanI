@@ -14,7 +14,7 @@ I'm a Software Developer and college student who loves learning how technology w
 </li>
 <li>
 <b>Arca Continental TWI Supervisor Training System</b>
-<p>Worked on a full-stack web application with React, Node, Express & MySQL to manage employee performance data</p>
+<p>This project involved the development of a full-stack web application using ReactJS, React Bootstrap, NodeJS, ExpressJS, and MySQL. The project included designing and developing the user interface and creating separate admin and employee interfaces for tracking and measuring employee performance based on assignments, the platform was hosted on Heroku. I collaborated effectively with a team of 5.</p>
 </li>
 <li>
 <b>Sign language learning admin dashboard</b>
