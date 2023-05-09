@@ -1,27 +1,6 @@
 ## Hi 👋 I am Luis! 
 I'm a Software Developer and college student who loves learning how technology works and building stuff with it
 
-### 🔨 Projects I'm the most proud of
-<ul>
-<li>
-<b>Contact-hub</b> 
-<p>As part of my on-campus job, I colaborating on a PHP-based web application called "Contact Hub" using the SCRUM framework. The application functions as a centralized platform for ITESM campuses information that provides comprehensive details on academic programs, student life, admission requirements, and campus options to attract potential students.</p>
-</li>
-<li>
-<b>Peer learning-app</b>
-<p>The project is a peer-learning web application connecting student mentors to fellow students in need of tutoring. It consists of two single-page applications using Firebase for hosting, database, and storage. One app uses Angular, the other Vue.js, both styled with Tailwind CSS. Students can search for mentors by subject and day, and approach them at a designated spot on campus. The app has connected over 2500 students and mentors.</p>
- It's still under development but you can visit the currently deployed version at <a href="https://biblioteca.maes.mx/#/">Biblioteca MAE</a> and <a href="https://maes.mx/#/">maes.mx</a>!
-</li>
-<li>
-<b>Arca Continental TWI Supervisor Training System</b>
-<p>This project involved the development of a full-stack web application using ReactJS, React Bootstrap, NodeJS, ExpressJS, and MySQL. The project included designing and developing the user interface and creating separate admin and employee interfaces for tracking and measuring employee performance based on assignments, the platform was hosted on Heroku. I collaborated effectively with a team of 5.</p>
-</li>
-<li>
-<b>Sign language learning admin dashboard</b>
-<p>Currently working on the design and development of a web dashboard for admins to manage and visualize user data</p>
-</li>
-</ul>
-
 ### 👨‍💻 Languages, Frameworks & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,8 +21,21 @@ I'm a Software Developer and college student who loves learning how technology w
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-
 </div>
+
+### 🔨 Projects I'm the most proud of
+* **Contact-hub**
+As part of my on-campus job, I colaborating on a PHP-based web application called "Contact Hub" using the SCRUM framework. The application functions as a centralized platform for ITESM campuses information that provides comprehensive details on academic programs, student life, admission requirements, and campus options to attract potential students.
+
+* **Peer learning-app**
+The project is a peer-learning web application connecting student mentors to fellow students in need of tutoring. It consists of two single-page applications using Firebase for hosting, database, and storage. One app uses Angular, the other Vue.js, both styled with Tailwind CSS. Students can search for mentors by subject and day, and approach them at a designated spot on campus. The app has connected over 2500 students and mentors. It's still under development but you can visit the currently deployed version at <a href="https://biblioteca.maes.mx/#/">Biblioteca MAE</a> and <a href="https://maes.mx/#/">maes.mx</a>!
+
+* **Arca Continental TWI Supervisor Training System**
+This project involved the development of a full-stack web application using ReactJS, React Bootstrap, NodeJS, ExpressJS, and MySQL. The project included designing and developing the user interface and creating separate admin and employee interfaces for tracking and measuring employee performance based on assignments, the platform was hosted on Heroku. I collaborated effectively with a team of 5.
+
+* **Sign language learning admin dashboard**
+I contributed to the development of Signa, a sign language learning app, working with John Deere. I developed an admin dashboard using Vue.js to monitor employee learning progress and collaborated with the development of the backend and mobile app to ensure great user experience.  The app used a gamification approach to encourage learning, including quizzes, and I had minor interactions with Android development using Kotlin. 
+
 
 ### 👨‍🦱 Some personal stuff
 * He / Him
