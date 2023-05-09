@@ -5,12 +5,12 @@ I'm a Software Developer and college student who loves learning how technology w
 <ul>
 <li>
 <b>Contact-hub</b> 
-<p>As part of my on-campus job, I am developing an agile PHP-based web application called "Contact Hub." The application functions as a centralized platform for ITESM campuses information that provides comprehensive details on academic programs, student life, admission requirements, and campus options to attract potential students. The project follows the Scrum framework, and the platform will have a user-friendly interface that facilitates easy access to information and enhances the school's visibility.</p>
+<p>As part of my on-campus job, I colaborating on a PHP-based web application called "Contact Hub" using the SCRUM framework. The application functions as a centralized platform for ITESM campuses information that provides comprehensive details on academic programs, student life, admission requirements, and campus options to attract potential students.</p>
 </li>
 <li>
-<b>MAE Digital Library</b>
-<p>Currently working on a Web App as a part of my scholarship service to store and distribute educational content from students to students using Firebase and Vue.js </p>
- It's still under development but you can visit the currently deployed version <a href="https://biblioteca.maes.mx/#/">here</a>!
+<b>Peer learning-app</b>
+<p>The project is a peer-learning web application connecting student mentors to fellow students in need of tutoring. It consists of two single-page applications using Firebase for hosting, database, and storage. One app uses Angular, the other Vue.js, both styled with Tailwind CSS. Students can search for mentors by subject and day, and approach them at a designated spot on campus. The app has connected over 2500 students and mentors.</p>
+ It's still under development but you can visit the currently deployed version at <a href="https://biblioteca.maes.mx/#/">Biblioteca MAE</a> and <a href="https://maes.mx/#/">maes.mx</a>!
 </li>
 <li>
 <b>Arca Continental TWI Supervisor Training System</b>
@@ -19,10 +19,6 @@ I'm a Software Developer and college student who loves learning how technology w
 <li>
 <b>Sign language learning admin dashboard</b>
 <p>Currently working on the design and development of a web dashboard for admins to manage and visualize user data</p>
-</li>
-<li>
-<b>Migrant Shelter Information database</b>
-<p>Contributing to the development of a web application using Angular for Casa Nicolás migrant shelter as part of  my campus cybersecurity club</p>
 </li>
 </ul>
 
